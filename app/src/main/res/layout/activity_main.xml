@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="166dp"
+        android:layout_gravity="center"
+        android:foregroundGravity="center"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="141dp"
+            android:layout_height="match_parent"
+            android:layout_marginStart="30dp"
+            android:src="@drawable/logothai" />
+
+        <TextView
+            android:layout_width="207dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginStart="10dp"
+            android:fontFamily="@font/kaiseidecolbold"
+            android:text="BAHASA THAI"
+            android:textColor="#000"
+            android:textSize="35dp" />
+    </LinearLayout>
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="50dp"
+        android:background="@drawable/bg_btn_merah"
+        android:fontFamily="@font/inregular"
+        android:onClick="showActivity"
+        android:text="MATERI"
+        android:textColor="#fff"
+        android:textSize="22sp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="50dp"
+        android:background="@drawable/bg_btn_merah"
+        android:fontFamily="@font/inregular"
+        android:onClick="showActivity"
+        android:text="KONSONAN"
+        android:textColor="#fff"
+        android:textSize="22sp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="50dp"
+        android:background="@drawable/bg_btn_merah"
+        android:fontFamily="@font/inregular"
+        android:onClick="showActivity"
+        android:text="KOSAKATA DAN ANGKA"
+        android:textColor="#fff"
+        android:textSize="22sp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="50dp"
+        android:background="@drawable/bg_btn_merah"
+        android:fontFamily="@font/inregular"
+        android:onClick="showActivity"
+        android:text="KUIS"
+        android:textColor="#fff"
+        android:textSize="22sp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="50dp"
+        android:background="@drawable/bg_btn_merah"
+        android:fontFamily="@font/inregular"
+        android:onClick="showActivity"
+        android:text="TENTANG"
+        android:textColor="#fff"
+        android:textSize="22sp" />
+</LinearLayout>

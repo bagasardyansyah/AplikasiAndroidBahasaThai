@@ -1,0 +1,101 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1595" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/drawable/bg_btn_merah.xml" value="0.151" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/drawable/bg_white.xml" value="0.1595" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/drawable/border_table.xml" value="0.1595" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/drawable/border_table_top.xml" value="0.1595" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/drawable/round_back10.xml" value="0.1595" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/drawable/round_back_green.xml" value="0.1595" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/drawable/round_back_green10.xml" value="0.1595" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/drawable/round_back_light_yellow.xml" value="0.1595" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/drawable/round_back_red10.xml" value="0.1595" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/drawable/round_back_red_.xml" value="0.151" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/drawable/round_back_red_stroke.xml" value="0.1595" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/drawable/round_back_stroke10.xml" value="0.151" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/drawable/round_back_white10.xml" value="0.1595" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/drawable/round_back_white_stroke2.xml" value="0.151" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/drawable/round_back_white_stroke2_10.xml" value="0.1595" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/drawable/round_red_stroke.xml" value="0.151" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/layout/actionbarquiz_layout.xml" value="0.22826086956521738" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/layout/activity_belajar.xml" value="0.22826086956521738" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/layout/activity_home.xml" value="0.22826086956521738" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/layout/activity_huruf_hiragana.xml" value="0.22826086956521738" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/layout/activity_huruf_katakana.xml" value="0.22826086956521738" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/layout/activity_intro.xml" value="0.23076923076923078" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/layout/activity_latihan.xml" value="0.22826086956521738" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/layout/activity_materi.xml" value="0.2257761053621825" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/layout/activity_materi_hiragana.xml" value="0.22826086956521738" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/layout/activity_materihiragana.xml" value="0.22826086956521738" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/layout/activity_pilihkategori.xml" value="0.22826086956521738" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/layout/activity_pilihtopic.xml" value="0.22826086956521738" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/layout/activity_quiz.xml" value="0.264" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/layout/activity_quiz_results.xml" value="0.22826086956521738" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/layout/activity_splash_screen.xml" value="0.22826086956521738" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/layout/activity_tentang.xml" value="0.22826086956521738" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/layout/ahirapopup.xml" value="0.22826086956521738" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/layout/fragment_hiragana_huruf.xml" value="0.2" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/layout/fragment_hiragana_penjelasan.xml" value="0.22826086956521738" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/layout/fragment_huruf_hiragana.xml" value="0.22826086956521738" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/layout/fragment_penjelasan_hiragana.xml" value="0.22826086956521738" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/layout/hirakanapopup.xml" value="0.22826086956521738" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/layout/hirapopup.xml" value="0.22826086956521738" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/layout/intro_popup.xml" value="0.22826086956521738" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/layout/toolbar.xml" value="0.22826086956521738" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.121" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek - Copy (2)/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.121" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek/app/src/main/res/drawable-mdpi/stopwatch_fill.xml" value="0.136" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek/app/src/main/res/drawable/bg_btn_merah.xml" value="0.2265" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek/app/src/main/res/drawable/bg_white.xml" value="0.1" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek/app/src/main/res/drawable/round_back.xml" value="0.2265" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek/app/src/main/res/drawable/round_back10.xml" value="0.1705" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek/app/src/main/res/drawable/round_back_green.xml" value="0.1595" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek/app/src/main/res/drawable/round_back_green10.xml" value="0.1595" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek/app/src/main/res/drawable/round_back_light_yellow.xml" value="0.1595" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek/app/src/main/res/drawable/round_back_red10.xml" value="0.1595" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek/app/src/main/res/drawable/round_back_stroke10.xml" value="0.152" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek/app/src/main/res/drawable/round_back_white10.xml" value="0.1595" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek/app/src/main/res/drawable/round_back_white_stroke2_10.xml" value="0.1595" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek/app/src/main/res/drawable/transparent_button.xml" value="0.2265" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek/app/src/main/res/layout/activity_belajar.xml" value="0.22826086956521738" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek/app/src/main/res/layout/activity_latihan.xml" value="0.2" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek/app/src/main/res/layout/activity_quiz.xml" value="0.2" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek/app/src/main/res/layout/activity_quiz_results.xml" value="0.21739130434782608" />
+        <entry key="..\:/Adit/Matkul/SEMESTER 6/PI/MyProjek/app/src/main/res/layout/toolbar.xml" value="0.22826086956521738" />
+        <entry key="..\:/Aditya/MyProjek - Copy (2)/app/src/main/res/layout/actionbarquiz_layout.xml" value="0.21467391304347827" />
+        <entry key="..\:/Aditya/MyProjek - Copy (2)/app/src/main/res/layout/activity_huruf_hiragana.xml" value="0.21467391304347827" />
+        <entry key="..\:/Users/LMFAO/Documents/PI/projek/app/src/main/res/layout/actionbarquiz_layout.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/LMFAO/Documents/PI/projek/app/src/main/res/layout/activity_huruf_hiragana.xml" value="0.30963665086887837" />
+        <entry key="..\:/Users/LMFAO/Documents/PI/projek/app/src/main/res/layout/activity_huruf_katakana.xml" value="0.33" />
+        <entry key="..\:/Users/LMFAO/Documents/PI/projek/app/src/main/res/layout/activity_konsonan.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/LMFAO/Documents/PI/projek/app/src/main/res/layout/activity_kosakata_angka.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/LMFAO/Documents/PI/projek/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/LMFAO/Documents/PI/projek/app/src/main/res/layout/activity_materi.xml" value="0.25" />
+        <entry key="..\:/Users/LMFAO/Documents/PI/projek/app/src/main/res/layout/activity_pilihkategori.xml" value="0.33" />
+        <entry key="..\:/Users/LMFAO/Documents/PI/projek/app/src/main/res/layout/activity_quiz.xml" value="0.25" />
+        <entry key="..\:/Users/LMFAO/Documents/PI/projek/app/src/main/res/layout/activity_quiz_results.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/LMFAO/Documents/PI/projek/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/Users/LMFAO/Documents/PI/projek/app/src/main/res/layout/activity_tentang.xml" value="0.33" />
+        <entry key="..\:/Users/LMFAO/Documents/PI/projek/app/src/main/res/layout/aksarapopup.xml" value="0.3625" />
+        <entry key="..\:/Users/LMFAO/Documents/PI/projek/app/src/main/res/layout/hirakanapopup.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/LMFAO/Documents/PI/projek/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.288" />
+        <entry key="..\:/Users/LMFAO/Documents/PI/projek/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.288" />
+        <entry key="..\:/Users/bagas/Documents/pi/projek/app/src/main/res/layout/actionbarquiz_layout.xml" value="0.14356884057971014" />
+        <entry key="..\:/Users/bagas/Documents/pi/projek/app/src/main/res/layout/activity_kosakata_angka.xml" value="0.22" />
+        <entry key="..\:/Users/bagas/Documents/pi/projek/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/bagas/Documents/pi/projek/app/src/main/res/layout/activity_materi.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/bagas/Documents/pi/projek/app/src/main/res/layout/aksarapopup.xml" value="0.14356884057971014" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

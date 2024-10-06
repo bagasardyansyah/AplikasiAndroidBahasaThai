@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">BAHASA THAI</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="paragraf1">Bahasa Thai atau bahasa Thai Tengah (bahasa Thai: ภาษาไทย phasa thai) adalah bahasa resmi di negara Thailand. Bahasa Thai adalah anggota dari subrumpun bahasa Thai dari rumpun bahasa Kra-Dai. Bahasa ini adalah kerabat dari bahasa Thai Utara, bahasa Thai Selatan, bahasa Lao, dan bahasa Shan. pada aplikasi ini membahas 3(tiga) dasar bahasa thailand, yaitu:</string>
+    <string name="huruf1">1. KONSONAN</string>
+    <string name="huruf2">2. KOSAKATA</string>
+    <string name="huruf3">3. ANGKA</string>
+    <string name="paragraf2">Aksara Thai atau kerap disebut akson Thai (อักษรไทย) digunakan untuk menulis bahasa Thailand dalam sehari-hari. Berasal dari aksara Khmer kuno atau akson Khmer (อักษรเขมร), aksara Thailand ini merupakan abugida, yaitu aksara yang didasarkan pada konsonan dengan intonasi vokal.Aksara Thailand sendiri diciptakan oleh Raja Ramkhamhaeng yang Agung sejak tahun 1283 hingga digunakan sampai saat ini.</string>
+    <string name="cth1">- Sama seperti bahasa Mandarin, bahasa Thailand merupakan bahasa fonetik, yaitu bahasa yang maknanya bergantung dari pengucapannya. Jadi, jika pada satu kata yang penulisannya sama diucapkan dengan nada yang berbeda, maknanya pun berbeda.</string>
+    <string name="cth2">- Tulisan Thailand sendiri bukan seperti alfabet, melainkan jenis aksara yang disebut abugida. Abugida adalah suatu sistem penulisan yang masing-masing konsonannya dapat memunculkan bunyi vokal.</string>
+
+    <string name="subjudul1">1. KONSONAN</string>
+    <string name="konsonan">Konsonan atau พยัญชนะ (phayanchana) dalam bahasa Thailand berjumlah 44, namun dibagi menjadi tiga bagian, yakni konsonan kelas rendah, tengah, dan tinggi.</string>
+    <string name="jenishuruf1">Kelas konsonan</string>
+    <string name="subbab1">RENDAH</string>
+    <string name="rendah">ค, ฅ, ฆ, ง, ช, ซ, ฌ, ญ, ฑ, ฒ, ณ, <br></br>\nท, ธ, น, พ, ฟ, ภ, ม, ย, ร, ล, ว, ฬ, ฮ</string>
+    <string name="catatan1">Konsonan rendah ditandai dengan letak lidah yang rendah saat diucapkan.<br></br>\nSuara ini memiliki kualitas suara yang lebih dalam.\nBeberapa konsonan rendah dalam bahasa Thailand antara lain /b/, /p/, /d/, /t/, /g/, /k/.\nContoh kata dalam bahasa Thailand yang menggunakan konsonan rendah adalah น หนู (no nuu) yang berarti "tikus", dan ค ควาย (kho khwaai) yang berarti "kerbau".</string>
+    <string name="subbab2">TENGAH</string>
+    <string name="tengah">ก, จ, ฎ, ฏ, ด, ต, บ, ป, อ</string>
+    <string name="catatan2">Konsonan Tengah (Mid): Konsonan tengah memiliki letak lidah yang berada di posisi menengah saat diucapkan. <br></br>\nSuara ini memiliki kualitas suara yang sedang. \nBeberapa konsonan tengah dalam bahasa Thailand antara lain /m/, /n/, /ng/. \nContoh kata dalam bahasa Thailand yang menggunakan konsonan tengah adalah ก ไก่ (ko kai) yang berarti "ayam", dan ด เด็ก (do dek) yang berarti "anak".</string>
+    <string name="subbab3">TINGGI</string>
+    <string name="tinggi">ข, ฃ, ฉ, ฐ, ถ, ผ, ฝ, ศ, ษ, ส, ห</string>
+    <string name="catatan3">Konsonan Tinggi (High): Konsonan tinggi ditandai dengan letak lidah yang tinggi saat diucapkan. <br></br>\nSuara ini memiliki kualitas suara yang lebih keras dan lebih nyaring. \nBeberapa konsonan tinggi dalam bahasa Thailand antara lain /s/, /j/, /ch/. \nThailand yang menggunakan konsonan tinggi adalah "สวัสดี" (sawatdee) yang berarti "halo", dan ขไข่ (kho khai) yang berarti "telur".</string>
+    <string name="jenistulis1">CATATAN AKHIR</string>
+    <string name="subbab4">Beberapa hal lain untuk kamu ingat ketika belajar tulisan Thailand, adalah:</string>
+    <string name="penulisan">- Penulisan kalimat Thailand tidak memakai spasi dan tanda baca. Jadi, mengetahui makna kosakata bahasa Thailand sangat penting untuk memahami teks. <br></br>\n- Penulisan huruf latin “u” dibaca “a”. Contoh: วัน, ditulis “wun”, dibaca “wan”. \n- Pembacaan “k” ditulis dengan huruf latin “g”. Contoh: ใกล้, ditulis “glai”. \n- Tidak semua kata dalam bahasa Thailand memakai huruf vokal. Contoh: สม, dibaca “som”; ทน, dibaca “ton”. \n- Tanda ๆ digunakan untuk pengulangan kata sebelumnya. Contoh : จริงๆ = jring-jring.</string>
+
+    <string name="subjudul2">2. KOSAKATA</string>
+    <string name="kosakata">Kosakata adalah seperangkat kata yang familiar dalam bahasa seseorang. Kosakata, biasanya dikembangkan seiring bertambahnya usia, berfungsi sebagai alat yang berguna dan fundamental untuk komunikasi dan memperoleh pengetahuan. Memperoleh kosakata ekstensif adalah salah satu tantangan terbesar dalam mempelajari bahasa kedua.</string>
+    <string name="jenishuruf2">Contoh Kosakata Pada Bahasa Thailand</string>
+    <string name="sawatdii">สวัสดี ค่ะ/ครับ = Sawatdii kha/krab = Halo<br></br>\nขอบคุณ ค่ะ/ครับ = Kop khun kha/krab = Terimakasih \nสบายดีไหม ค่ะ/ครับ = Sabai dii mai kha/krab = Apa Kabar</string>
+    <string name="catatan4">"Kha" dan "krab" adalah kata yang digunakan dalam bahasa Thailand untuk mengekspresikan <br></br>kesopanan, dan mereka memiliki perbedaan dalam penggunaan dan konteksnya</string>
+    <string name="kha">1. "Kha" (ค่ะ): "Kha" digunakan oleh perempuan untuk menunjukkan kesopanan, kelembutan, dan mengindikasikan bahwa pembicara adalah seorang perempuan. <br></br>Kata ini biasanya ditambahkan pada akhir kalimat atau frase untuk menunjukkan sopan santun. \nMisalnya, jika seorang perempuan mengatakan "khob khun" (terima kasih), dia bisa menambahkan "kha" di akhirnya sehingga menjadi "khob khun kha".</string>
+    <string name="krab">2. "Krab" (ครับ): "Krab" digunakan oleh pria untuk menunjukkan kesopanan, kerendahan hati, dan mengindikasikan bahwa pembicara adalah seorang pria. <br></br>Kata ini juga ditambahkan pada akhir kalimat atau frase untuk menunjukkan sopan santun. \nMisalnya, jika seorang pria ingin bertanya "Apa kabar?" dalam bahasa Thailand, dia bisa mengatakan "Sabai dii mai krab?"</string>
+    <string name="catatanakhir">Perlu diperhatikan bahwa penggunaan "kha" dan "krab" bukanlah suatu aturan yang baku dalam bahasa Thailand. <br></br>Terkadang, di lingkungan informal atau antara teman dekat, orang-orang mungkin tidak menggunakan "kha" atau "krab" dalam percakapan sehari-hari.</string>
+    <string name="catatanakhir1">Penggunaan yang tepat dari "kha" atau "krab" juga bergantung pada konteks sosial dan perbedaan gender. <br></br>Namun, dalam situasi formal atau ketika berbicara dengan orang yang lebih tua atau memiliki status sosial yang lebih tinggi, disarankan untuk menggunakan "kha" atau "krab" sebagai tanda sopan santun.</string>
+
+    <string name="subjudul3">3. ANGKA</string>
+    <string name="angka">Angka sangat penting dipelajari karena menjadi dasar perhitungan dalam kehidupan sehari-hari. Misalnya dalam transaksi jual beli, menghitung jumlah hari, tanggal, dan bulan, kita akan dihadapkan dengan persoalan angka. <br></br>Angka pada bahasa Thailand berbeda lho dengan angka yang sering kita gunakan sekarang.</string>
+    <string name="contohangka">Beberapa Angka Pada Bahasa Thailand</string>
+    <string name="satusembilan">๐ = 0 = ศูนย์ (suun)<br></br> \n๑ = 1 = หนึ่ง (neung)\n๒ = 2 = สอง (soong)\n๓ = 3 = สาม (saam)\n๔ = 4 = สี่ (sii)\n๕ = 5 = ห้า (haa)\n๖ = 6 = หก (hok)\n๗ = 7 = เจ็ด (jet)\n๘ = 8 = แปด (paaet)\n๙ = 9 = เก้า (kao)\n๑๐ = 10 = สิบ (sip)\n๒๐ = 20 = nยี่สิบ (yii sip)</string>
+    <string name="catatan5">Untuk membentuk angka yang lebih besar, angka dasar tersebut dikombinasikan. <br></br>Misalnya, 25 dapat diungkapkan sebagai "ยี่สิบห้า" (yîi sìp hâa), yang merupakan gabungan antara angka 20 dan 5.</string>
+    <string name="catatan6">Sistem penomoran dalam bahasa Thailand juga berlaku untuk menyatakan tanggal, waktu, dan berbagai pengukuran. <br></br>Dalam konteks penggunaan tersebut, angka-angka ini dapat dikombinasikan dengan kata-kata atau frasa lain untuk memberikan informasi yang lebih spesifik.</string>
+</resources>

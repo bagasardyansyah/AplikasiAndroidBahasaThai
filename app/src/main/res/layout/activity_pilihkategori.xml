@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:gravity="center"
+    tools:context=".pilihKategoriActivity">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/inregular"
+                android:gravity="center"
+                android:text="Pilih Kategori"
+                android:textColor="#000"
+                android:textSize="35dp"
+                android:layout_marginBottom="20dp"
+                android:textStyle="bold" />
+            <Button
+                android:onClick="showQuestions"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="40dp"
+                android:layout_marginEnd="40dp"
+                android:text="KONSONAN"
+                android:textSize="25dp"
+                android:layout_marginBottom="15dp"
+                android:textColor="#FAFF12"
+                android:fontFamily="@font/inbold"
+                android:padding="10dp"/>
+            <Button
+                android:onClick="showQuestions"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="40dp"
+                android:layout_marginEnd="40dp"
+                android:text="KOSAKATA"
+                android:textSize="25dp"
+                android:layout_marginBottom="15dp"
+                android:gravity="center"
+                android:textColor="#FAFF12"
+                android:fontFamily="@font/inbold"
+                android:padding="10dp"/>
+            <Button
+                android:onClick="showQuestions"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="40dp"
+                android:layout_marginEnd="40dp"
+                android:text="ANGKA"
+                android:textSize="25dp"
+                android:layout_marginBottom="15dp"
+                android:gravity="center"
+                android:textColor="#FAFF12"
+                android:fontFamily="@font/inbold"
+                android:padding="10dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="*Petunjuk Pengisian: \nPilihlah jawaban berdasarkan cara membaca hurufnya"
+                android:textColor="@color/purple_700"
+                android:layout_gravity="center"/>
+        </LinearLayout>
+
+

@@ -1,0 +1,1386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".konsonanActivity">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/kelasrendah"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginTop="30dp"
+                    android:gravity="center"
+                    android:text="Konsonan Kelas Rendah"
+                    android:textColor="#000"
+                    android:textSize="30dp"
+                    android:textStyle="bold" />
+                <LinearLayout
+                    android:layout_below="@+id/baris1"
+                    android:id="@+id/layoutb1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="15dp"
+                    android:layout_marginEnd="10dp"
+                    android:orientation="horizontal"
+                    android:weightSum="4">
+
+                        <LinearLayout
+                            android:id="@+id/Kerbau"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:text="ค"
+                                    android:textColor="#000"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:text="Kerbau"
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:id="@+id/Orang"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:text="ฅ"
+                                    android:textColor="#000"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:text="Orang"
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+                        <LinearLayout
+                            android:id="@+id/Lonceng"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:text="ฆ"
+                                    android:textColor="#000"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:text="Lonceng"
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+                        <LinearLayout
+                            android:id="@+id/Ular"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:text="ง"
+                                    android:textColor="#000"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:text="Ular"
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_below="@+id/baris2"
+                    android:id="@+id/layoutb2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginEnd="10dp"
+                    android:orientation="horizontal"
+                    android:weightSum="4">
+
+                        <LinearLayout
+                            android:id="@+id/Gajah"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:text="ช"
+                                    android:textColor="#000"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:text="Gajah"
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+                        <LinearLayout
+                            android:id="@+id/Rantai"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:text="ซ"
+                                    android:textColor="#000"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:text="Rantai"
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:id="@+id/Pohon"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:text="ฌ"
+                                    android:textColor="#000"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:text="Pohon"
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+                        <LinearLayout
+                            android:id="@+id/Perempuan"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:text="ญ"
+                                    android:textColor="#000"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:text="Perempuan"
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_below="@+id/baris3"
+                    android:id="@+id/layoutb3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginEnd="10dp"
+                    android:orientation="horizontal"
+                    android:weightSum="4">
+
+                        <LinearLayout
+                            android:id="@+id/Mandodari"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:text="ฑ"
+                                    android:textColor="#000"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:text="Mandodari"
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+                        <LinearLayout
+                            android:id="@+id/Priatua"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:text="ฒ"
+                                    android:textColor="#000"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:text="Pria Tua"
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:id="@+id/Biksumuda"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:text="ณ"
+                                    android:textColor="#000"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:text="Biksu Muda"
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:id="@+id/Tentara"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:text="ท"
+                                    android:textColor="#000"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:text="Tentara"
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_below="@+id/baris4"
+                    android:id="@+id/layoutb4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginEnd="10dp"
+                    android:orientation="horizontal"
+                    android:weightSum="4">
+
+                        <LinearLayout
+                            android:id="@+id/Bendera"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:text="ธ"
+                                    android:textColor="#000"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:text="Bendera"
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+                        <LinearLayout
+                            android:id="@+id/Tikus"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:text="น"
+                                    android:textColor="#000"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:text="Tikus "
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+                        <LinearLayout
+                            android:id="@+id/Nampan"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:text="พ"
+                                    android:textColor="#000"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:text="Nampan"
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:id="@+id/Gigi"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:text="ฟ"
+                                    android:textColor="#000"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:text="Gigi"
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_below="@+id/baris5"
+                    android:id="@+id/layoutb5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginEnd="10dp"
+                    android:orientation="horizontal"
+                    android:weightSum="4">
+
+                        <LinearLayout
+                            android:id="@+id/Kapallayar"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:text="ภ"
+                                    android:textColor="#000"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:text="Kapal Layar"
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+                        <LinearLayout
+                            android:id="@+id/Kuda"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:text="ม"
+                                    android:textColor="#000"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:text="kuda"
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+                        <LinearLayout
+                            android:id="@+id/Raksasa"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:text="ย"
+                                    android:textColor="#000"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:text="Raksasa"
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+                        <LinearLayout
+                            android:id="@+id/Perahu"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:text="ร"
+                                    android:textColor="#000"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:text="Perahu"
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_below="@+id/baris6"
+                    android:id="@+id/layoutb6"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginEnd="10dp"
+                    android:orientation="horizontal"
+                    android:weightSum="4">
+                        <LinearLayout
+                            android:id="@+id/Monyet"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:text="ล"
+                                    android:textColor="#000"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:text="Monyet"
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+                        <LinearLayout
+                            android:id="@+id/Layangan"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:text="ฬ"
+                                    android:textColor="#000"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:text="Layangan"
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+                        <LinearLayout
+                            android:id="@+id/Cincin"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:text="ว"
+                                    android:textColor="#000"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:text="Cincin"
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+                        <LinearLayout
+                            android:id="@+id/Burunghantu"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:text="ฮ"
+                                    android:textColor="#000"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:text="Burung Hantu"
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+                </LinearLayout>
+
+
+                <TextView
+                    android:id="@+id/kelastengah"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/layout10"
+                    android:text="Konsonan Kelas Tengah"
+                    android:textColor="#000"
+                    android:textSize="30dp"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:layout_marginTop="40dp"/>
+                <LinearLayout
+                    android:layout_below="@+id/bariss1"
+                    android:id="@+id/layoutt1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginEnd="10dp"
+                    android:orientation="horizontal"
+                    android:weightSum="3">
+
+                        <LinearLayout
+                            android:id="@+id/Ayam"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:gravity="center"
+                                    android:text="ก"
+                                    android:textColor="#000"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:gravity="center"
+                                    android:text="Ayam"
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:id="@+id/Piring"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:text="จ"
+                                    android:textColor="#000"
+                                    android:gravity="center"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:gravity="center"
+                                    android:text="Piring"
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+                        <LinearLayout
+                            android:id="@+id/Mahkota"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:text="ฎ"
+                                    android:textColor="#000"
+                                    android:gravity="center"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:gravity="center"
+                                    android:text="Mahkota"
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_below="@+id/bariss2"
+                    android:id="@+id/layoutt2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginEnd="10dp"
+                    android:orientation="horizontal"
+                    android:weightSum="3">
+
+                        <LinearLayout
+                            android:id="@+id/Tombak"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:text="ฏ"
+                                    android:textColor="#000"
+                                    android:gravity="center"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:gravity="center"
+                                    android:text="Tombak"
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+                        <LinearLayout
+                            android:id="@+id/Anak"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:text="ด"
+                                    android:textColor="#000"
+                                    android:gravity="center"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:gravity="center"
+                                    android:text="Anak"
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+                        <LinearLayout
+                            android:id="@+id/Kurakura"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:text="ต"
+                                    android:textColor="#000"
+                                    android:gravity="center"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:text="Kura - kura"
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_below="@+id/bariss3"
+                    android:id="@+id/layoutt3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginEnd="10dp"
+                    android:orientation="horizontal"
+                    android:weightSum="3">
+                        <LinearLayout
+                            android:id="@+id/Daun"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:text="บ"
+                                    android:textColor="#000"
+                                    android:gravity="center"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:text="Daun"
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+                        <LinearLayout
+                            android:id="@+id/Ikan"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:text="ป"
+                                    android:textColor="#000"
+                                    android:gravity="center"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:text="Ikan"
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+                        <LinearLayout
+                            android:id="@+id/Bak"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:text="อ"
+                                    android:textColor="#000"
+                                    android:gravity="center"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:text="Bak"
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/kelastinggi"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/layout15"
+                    android:layout_marginTop="40dp"
+                    android:gravity="center"
+                    android:text="Konsonan Kelas Tinggi"
+                    android:textColor="#000"
+                    android:textSize="30dp"
+                    android:textStyle="bold" />
+                <LinearLayout
+                    android:id="@+id/barisss1"
+                    android:layout_below="@+id/layoutk1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="15dp"
+                    android:layout_marginEnd="10dp"
+                    android:orientation="horizontal"
+                    android:gravity="center"
+                    android:weightSum="3">
+
+                        <LinearLayout
+                            android:id="@+id/Telur"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:text="ข"
+                                    android:textColor="#000"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:text="Telur"
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:id="@+id/Botol"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:text="ฃ"
+                                    android:textColor="#000"
+                                    android:gravity="center"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:text="Botol"
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:id="@+id/Simbalkecil"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:text="ฉ"
+                                    android:textColor="#000"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:text="Simbal Kecil"
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+                </LinearLayout>
+                <LinearLayout
+                    android:id="@+id/barisss2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/layoutk2"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginEnd="10dp"
+                    android:orientation="horizontal"
+                    android:gravity="center"
+                    android:weightSum="3">
+
+                        <LinearLayout
+                            android:id="@+id/Pedestal"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:text="ฐ"
+                                    android:textColor="#000"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:text="Pedestal"
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:id="@+id/Tas"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:text="ถ"
+                                    android:textColor="#000"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:text="Tas"
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:id="@+id/Lebah"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:text="ผ"
+                                    android:textColor="#000"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:text="Lebah"
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_below="@+id/barisss3"
+                    android:id="@+id/layoutk3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginEnd="10dp"
+                    android:orientation="horizontal"
+                    android:weightSum="3">
+
+                        <LinearLayout
+                            android:id="@+id/Penutup"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:text="ฝ"
+                                    android:textColor="#000"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:text="Penutup"
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:id="@+id/Pavilium"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:text="ศ"
+                                    android:textColor="#000"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:text="Pavilium"
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+                        <LinearLayout
+                            android:id="@+id/Pertapa"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:text="ษ"
+                                    android:textColor="#000"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:text="Pertapa"
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/barisss4"
+                    android:layout_below="@+id/layoutk4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginEnd="10dp"
+                    android:orientation="horizontal"
+                    android:gravity="center"
+                    android:weightSum="2">
+
+                        <LinearLayout
+                            android:id="@+id/Harimau"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:text="ส"
+                                    android:textColor="#000"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:text="Harimau"
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:id="@+id/Peti"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="#fff"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="0dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inbold"
+                                    android:text="ห"
+                                    android:textColor="#000"
+                                    android:textSize="25dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/inregular"
+                                    android:text="Peti"
+                                    android:textColor="#000"
+                                    android:textSize="15dp" />
+                        </LinearLayout>
+                </LinearLayout>
+
+        </LinearLayout>
+</ScrollView>
